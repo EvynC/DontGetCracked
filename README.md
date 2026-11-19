@@ -1,1 +1,1 @@
-# java-3d-game
+# java-2d-game
